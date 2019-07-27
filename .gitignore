@@ -12,6 +12,7 @@ tmp/
 doc/
 backup/
 nbproject/
+.idea/
 
 *.tmp
 *.bak
